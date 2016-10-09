@@ -1,0 +1,7 @@
+D:\Dev\SKBImport\SKBImport\bin\Debug\SKBImport.exe.config
+D:\Dev\SKBImport\SKBImport\obj\Debug\SKBImport.csprojResolveAssemblyReference.cache
+D:\Dev\SKBImport\SKBImport\bin\Debug\SKBImport.exe
+D:\Dev\SKBImport\SKBImport\bin\Debug\SKBImport.pdb
+D:\Dev\SKBImport\SKBImport\bin\Debug\nsDB2CBase.dll
+D:\Dev\SKBImport\SKBImport\obj\Debug\SKBImport.exe
+D:\Dev\SKBImport\SKBImport\obj\Debug\SKBImport.pdb
